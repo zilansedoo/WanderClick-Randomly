@@ -28,12 +28,12 @@ WanderClick-Randomly/
 └── README.md
 
 Main concepts used include:
--Arrays
--Functions
--Math.random()
--Math.floor()
--window.open()
--onclick
+- Arrays
+- Functions
+- `Math.random()`
+- `Math.floor()`
+- `window.open()`
+- `onclick`
 
 This project was made **just for fun and experimentation**.
 
