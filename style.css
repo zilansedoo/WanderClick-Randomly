@@ -1,10 +1,10 @@
 body {
-    background-image: url(forest.gif);
+    background-image: url(images/forest.gif);
     background-size: cover;
     background-repeat: no-repeat;
     background-attachment: fixed;
     background-position: center;
-    cursor: url(cursor.png), auto;
+    cursor: url(images/cursor.png), auto;
 
 }
 
@@ -83,7 +83,7 @@ h4:hover{
     font-size:20px;
     letter-spacing:1px;
     text-transform:uppercase;
-    cursor: url(hand-pointer.png), auto;
+    cursor: url(images/hand-pointer.png), auto;
     border-radius: 6px;
     margin-top: 50px;
 
@@ -149,12 +149,12 @@ a{
   color: var(--btn-bg-active);
   text-decoration: none;
   font-size: 16px;
-  cursor: url(hand-pointer.png), auto;
+  cursor: url(images/hand-pointer.png), auto;
 
 }
 a:hover{
   color: var(--btn-light);
-  cursor: url(hand-pointer.png), auto;
+  cursor: url(images/hand-pointer.png), auto;
 
 }
 
